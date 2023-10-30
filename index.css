@@ -1,0 +1,27 @@
+
+
+  @import url('https://fonts.googleapis.com/css2?family=Allura&family=Dancing+Script&family=Poppins:ital,wght@0,400;1,100&family=Sacramento&family=Shadows+Into+Light&display=swap');
+
+
+  *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  body{
+    font-family: 'Raleway',sans-serif;
+    background-image: url('https://t3.ftcdn.net/jpg/01/91/78/32/240_F_191783282_0TVrx5VrvrkpDHSKdjjI87HkbXJy5TMw.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100vw;
+    background-color: rgb(134, 102, 102);
+    background-color: rgb(22, 27, 107);
+  }
+
+h1{
+  color: rgb(209, 205, 205);
+}

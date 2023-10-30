@@ -1,0 +1,21 @@
+@import "https://fonts.googleapis.com/css2?family=Allura&family=Dancing+Script&family=Poppins:ital,wght@0,400;1,100&family=Sacramento&family=Shadows+Into+Light&display=swap";
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #161b6b;
+  background-image: url("https://t3.ftcdn.net/jpg/01/91/78/32/240_F_191783282_0TVrx5VrvrkpDHSKdjjI87HkbXJy5TMw.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+  font-family: Raleway, sans-serif;
+  display: flex;
+}
+
+/*# sourceMappingURL=index.9e4c6fd2.css.map */
